@@ -45,7 +45,15 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 109
+=======
+<<<<<<< HEAD
+  controlID: 99
+=======
+  controlID: 9
+>>>>>>> 65618b30f66d1cd5a75693910495ee225b4bb89a
+>>>>>>> d544aa8d19c54c03e1fdc1a86d6d61a116ec1d75
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -88,7 +96,15 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 303
+<<<<<<< HEAD
     height: 470
+=======
+<<<<<<< HEAD
+    height: 442
+=======
+    height: 448
+>>>>>>> 65618b30f66d1cd5a75693910495ee225b4bb89a
+>>>>>>> d544aa8d19c54c03e1fdc1a86d6d61a116ec1d75
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
@@ -209,7 +225,15 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 49
+=======
+<<<<<<< HEAD
+  controlID: 100
+=======
+  controlID: 10
+>>>>>>> 65618b30f66d1cd5a75693910495ee225b4bb89a
+>>>>>>> d544aa8d19c54c03e1fdc1a86d6d61a116ec1d75
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +257,15 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 50
+=======
+<<<<<<< HEAD
+  controlID: 101
+=======
+  controlID: 11
+>>>>>>> 65618b30f66d1cd5a75693910495ee225b4bb89a
+>>>>>>> d544aa8d19c54c03e1fdc1a86d6d61a116ec1d75
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,9 +283,19 @@ MonoBehaviour:
     x: 303
     y: 0
     width: 922
+<<<<<<< HEAD
     height: 470
+=======
+<<<<<<< HEAD
+    height: 442
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+=======
+    height: 448
+>>>>>>> d544aa8d19c54c03e1fdc1a86d6d61a116ec1d75
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
+>>>>>>> 65618b30f66d1cd5a75693910495ee225b4bb89a
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -394,7 +436,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
