@@ -1,0 +1,2 @@
+Sosiska
+(C) Tamat
